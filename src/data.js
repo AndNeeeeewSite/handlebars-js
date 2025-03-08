@@ -1,5 +1,5 @@
-import Handlebars from 'handlebars';
-import template from './src/template.hbs'; 
+import template from '../src/templates/template.hbs';
+
 
 export const products = [
     {
